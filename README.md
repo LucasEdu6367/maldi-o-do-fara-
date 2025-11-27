@@ -13,7 +13,6 @@ Enfrente criaturas amaldiçoadas, desvie de armadilhas mortais e derrote o poder
 Você assume o papel de um **explorador** equipado com:
 
 - 🗡️ Chicote para atacar
-- 🔥 Tochas para iluminar
 - 🔫 Pistola antiga para ataques à distância
 
 Seu objetivo é simples:
@@ -25,26 +24,18 @@ Seu objetivo é simples:
 ## 🗺️ Fases do Jogo
 
 ### Nível 1 – Deserto
-- Dunas móveis  
-- Inimigos: **escaravelhos**
+- Inimigos: **escaravelhos** **mumias*
 
 ### Nível 2 – Entrada da Pirâmide
-- Pisos que caem  
-- Inimigos: **guardiões de pedra**
+- Inimigos: **escaravelhos** **anubis*
 
 ### Nível 3 – Salão de Armadilhas
-- Plataformas com flechas  
-- Mini-boss: **Estátua Viva**  
-- Inimigos: **múmias**
+- Plataformas que caem nos espinhos
 
 ### Nível 4 – Câmara Labiríntica
 - Corredores em labirinto  
-- Inimigos: **sacerdotes amaldiçoados**
+- Inimigos: **sacerdotes amaldiçoados** **Boss**
 
-### Nível Final – Câmara Real
-- Arena de areia viva  
-- Mini-boss: **Esfinge**  
-- Boss final: **Imhotep**
 
 Ao derrotar o boss, o jogador vê a tela:
 
@@ -58,10 +49,7 @@ Ao derrotar o boss, o jogador vê a tela:
 - **Espaço** → Pular  
 - **J** → Ataque com chicote  
 - **K** → Ataque à distância  
-- **Shift** → Correr  
 - **Esc** → Pausa/Menu
-
-*(Adapte de acordo com o que realmente estiver no seu código.)*
 
 ---
 
@@ -87,13 +75,12 @@ README.md
 LICENSE
 
 
-Baixe ou clone este repositório:git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-
 project.godot
 
 Autor
 
 Lucas Eduardo Gomes Ferreira
+Leonardo Messias
 Estudante de Ciência da Computação e desenvolvedor de jogos.
 
 📄 Licença
